@@ -21,7 +21,7 @@ tg: [@litvinsedaya](https://t.me/litvinsedaya)
 
 **BI:** DataLens, Superset, Metabase  
 **Языки:** SQL, JS, Python  
-**Дата-инжиниринг:** Airflow, MinIO  
+**Дата-инжиниринг:** Airflow, dbt, MinIO  
 **БД:** PostgreSQL, ClickHouse, Greenplum, BigQuery  
 **Трекинг и аналитика:** Яндекс.Метрика, АппМетрика, Amplitude, Google Analytics, GTM, кастомные JS-счётчики, Appsflyer  
 **Автоматизация:** cron, Google Sheets, Zapier, N8, Cursor  
