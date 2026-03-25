@@ -13,13 +13,13 @@ tg: [@litvinsedaya](https://t.me/litvinsedaya)
 
 | Кейс | Описание |
 |------|----------|
-| [Миграция дашбордов в DataLens](cases/advanced-bi/README.md) | Superset → Yandex DataLens, кастомные визуалы (Gravity UI, JS), два борда за 3 дня |
-| [Пайплайн данных и дашборд по обучению](cases/analytics-from-scratch/README.md) | MinIO → PostgreSQL (парсинг JSON, оценки по критериям), схема БД, подготовка дашборда |
+| [Миграция дашбордов в DataLens](cases/advanced-bi/README.md) | Миграция дашбордов из Superset в Yandex DataLens, кастомные визуалы (Gravity UI, JS), два борда за 3 дня |
+| [Пайплайн данных и дашборд по обучению](cases/analytics-from-scratch/README.md) | Пайплайн данных из MinIO в PostgreSQL (парсинг JSON, оценки по критериям), схема БД, подготовка дашборда |
 | [Парсинг и аналитика участников сообществ](cases/parse-and-analyse/README.md) | Парсинг ~40 млн строк через VK API: обход блокировок, ротация токенов, execute-батчи; EDA и сегментация |
 
 ## Стек
 
-**BI:** DataLens, Superset, Metabase  
+**BI:** DataLens, Superset, Metabase, Chart.js, D3.js  
 **Языки:** SQL, JS, Python  
 **Дата-инжиниринг:** Airflow, dbt, MinIO  
 **БД:** PostgreSQL, ClickHouse, Greenplum, BigQuery  
